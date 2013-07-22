@@ -20,8 +20,10 @@ What is users in this statement?
 The name of the table
 
 Explain the concept of a primary key.
+The unique id field in the database, usually the id.
 
 Explain the concept of a foreign key.
+When joining two tables together it acts the the "glue" to join the two tables.
 
 Queries
 
